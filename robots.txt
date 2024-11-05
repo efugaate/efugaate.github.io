@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://efugaate.github.io/KNS/sitemap_index.txt
+Sitemap: https://efugaate.github.io/VxQ/sitemap_index.txt
+Sitemap: https://efugaate.github.io/ZWV/sitemap_index.txt
+Sitemap: https://efugaate.github.io/lBC/sitemap_index.txt
